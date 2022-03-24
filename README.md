@@ -2,7 +2,7 @@
 # My name is Fathia Nuq Qamarina
 - I'm student at university
 - I’m currently learning everything 😄
-- Fun fact: I love to Sing and Play Guitar
+- Fun fact: I love to Take Pictures, Sing and Play Guitar ✨
 <!--
 **FathiaNuqQamarina/FathiaNuqQamarina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
