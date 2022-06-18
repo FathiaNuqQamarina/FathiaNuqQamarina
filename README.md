@@ -1,7 +1,7 @@
 ### Assalamualaikum 
 ### Hello there ... 👋 
 # My name is Fathia Nuq Qamarina
-- I'm student at university
+- I'm student at Mulawarman university
 - I’m currently learning everything 😄
 - Fun fact: I love to Take Pictures, Sing and Play Guitar ✨
 
