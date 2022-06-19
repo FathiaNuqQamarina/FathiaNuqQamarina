@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#Blog
-https://berbagiinformasiwithme.blogspot.com/
+
