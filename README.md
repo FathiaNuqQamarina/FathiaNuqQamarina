@@ -1,23 +1,15 @@
-### Assalamualaikum 
-### Hello there ... 👋 
-# I am Fathia Nuq Qamarina
-- I'm student at Mulawarman university
-- I’m currently learning everything 😄
-- Fun fact: I love to Take Pictures, Sing and Play Guitar ✨
+<h1>Assalamualaikum </h1>
+<h3> Hello there ... 👋 </h3>
 
-## Nice to meet you ...
-<!--
-**FathiaNuqQamarina/FathiaNuqQamarina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![WELCOME](https://user-images.githubusercontent.com/74334625/201533075-2a8be248-c212-4a0e-a86a-27d18f3c5a72.png)
 
-Here are some ideas to get you started:
 
-- 🌱 I’m currently learning everything 😄
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1><i> I am Fathia Nuq Qamarina</i></h1>
+<ul>
+  <li>I'm student at Mulawarman university</</li>
+  <li>I’m currently learning everything 😄</</li>
+  <li>Fun fact: I love to Take Pictures, Sing and Play Guitar ✨</</li>
+</<ul>
+  <h1>Nice to meet you ...</h1>
 
 
